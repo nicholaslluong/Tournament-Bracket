@@ -1,0 +1,14 @@
+{
+    "teams": [
+        {
+            "odds": 23,
+            "name": "team1"
+        },
+        {
+            "odds": 34,
+            "name": "team2"
+        }
+    ],
+    "prizePool": 0,
+    "title": "title"
+}

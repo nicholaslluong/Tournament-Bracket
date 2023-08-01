@@ -1,0 +1,18 @@
+{
+    "teams": [
+        {
+            "odds": 45,
+            "name": "Blue Jays"
+        },
+        {
+            "odds": 30,
+            "name": "Canucks"
+        },
+        {
+            "odds": 70,
+            "name": "Toronto Raptors"
+        }
+    ],
+    "prizePool": 500000,
+    "title": "All Star Sports Tournament"
+}

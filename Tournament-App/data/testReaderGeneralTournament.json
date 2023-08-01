@@ -1,0 +1,16 @@
+{
+  "teams": [
+    {
+      "odds": 23,
+      "name": "team1",
+      "status": "Won"
+    },
+    {
+      "odds": 34,
+      "name": "team2",
+      "status": "Loss"
+    }
+  ],
+  "prizePool": 400,
+  "title": "New Tournament"
+}
